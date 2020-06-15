@@ -1,0 +1,11 @@
+2020-06-15 12:24:02,054 INFO  [log]  Number of rows are 2
+2020-06-15 12:24:02,054 INFO  [log]  Number of comuns 2
+2020-06-15 12:24:02,075 INFO  [log] SKU001201
+2020-06-15 12:24:02,075 INFO  [log] Dress
+2020-06-15 12:24:03,331 INFO  [log] Status: OK, Time taken for testStep execution is 1131 ms
+2020-06-15 12:24:04,329 INFO  [log] Status: OK, Time taken for testStep execution is 997 ms
+2020-06-15 12:24:05,206 INFO  [log] Status: OK, Time taken for testStep execution is 876 ms
+2020-06-15 12:24:07,061 INFO  [log] Status: OK, Time taken for testStep execution is 1853 ms
+2020-06-15 12:24:12,910 INFO  [log] 1129
+2020-06-15 12:24:12,912 INFO  [log] 1129
+2020-06-15 12:24:35,155 INFO  [log] 
